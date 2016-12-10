@@ -4,7 +4,7 @@
     <h2>Essential Links</h2>
     <ul>
       <li><a href="https://tkg.io" target="_blank">TKG.io</a></li>
-      <li><a href="https://keyboard-layout-editor.com" target="_blank">KLE</a></li>
+      <li><a href="http://keyboard-layout-editor.com" target="_blank">KLE</a></li>
     </ul>
   </div>
 </template>
